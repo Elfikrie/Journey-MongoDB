@@ -1,0 +1,16 @@
+[
+  {
+    "_id": {
+      "$oid": "63030380bbdbe7559c122e22"
+    },
+    "harga": 20000,
+    "tipe": "buku"
+  },
+  {
+    "_id": {
+      "$oid": "6303053cbbdbe7559c122e24"
+    },
+    "harga": 2500,
+    "tipe": "pensil"
+  }
+]
